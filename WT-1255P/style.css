@@ -1,0 +1,141 @@
+body, html {
+    overflow-x: hidden;
+}
+
+.container-style{
+    background-color: rgb(44,62,80) !important;
+}
+
+.navbar-brand{
+    font-weight: 700 !important;
+    color: white !important;
+    padding-left: 100px;
+    padding-top: 25px !important;
+    padding-bottom: 25px  !important;
+    font-size: 1.75rem !important;
+}
+
+.navbar-nav{
+    padding-right: 100px;
+}
+
+.nav-link{
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+    color: white !important;
+}
+
+.nav-link:hover{
+    color: rgb(26,188,156) !important;
+}
+
+#avatar-icon{
+width:15rem !important;
+padding-top:100px !important;
+}
+
+#main-style{
+   background-color:rgb(26,188,156) ; 
+   padding-top: 6rem;
+   padding-bottom: 6rem;
+}
+
+#h1-style{
+    padding-top:20px !important;
+    font-weight: 700;
+    font-size: 4rem;
+    line-height: 3.5rem;
+    color:white;
+}
+#career-paragraph{
+    font-size: 1.5rem;
+    padding-top:20px !important;
+    color: white;
+}
+#h2-style{
+    font-size: 3rem;
+    line-height: 2.5rem;
+    margin-top: 0;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+#section2-container{
+    padding: 6rem 0;
+}
+
+#section3{
+   background-color:rgb(26,188,156) ; 
+   padding-top: 6rem;
+   padding-bottom: 6rem;
+}
+
+.about-paragraph{
+    font-size: 1.4rem;
+    font-weight: 300; 
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color:white;
+}
+
+#about-link {
+padding: 1rem 1.75rem;
+font-size: 1.25rem;
+border: 1px solid white;
+border-radius: 8px;
+text-decoration: none;
+width:200px !important;
+height:65px !important;
+color: white;
+}
+
+#about-link:hover {
+    color:black;
+    background-color: white;
+    }
+
+
+#second-h2-style{
+    font-size: 3rem !important;
+    line-height: 2rem !important;
+    color:white;
+}
+
+.h4-style{
+    font-size: calc(1.275rem + 0.3vw);
+    margin-top: 3.5rem !important;
+    margin-bottom: 1.5rem !important;
+    color: white;
+}
+
+#section4{
+    background-color: rgb(44,62,80);
+}
+
+#about-freelance{
+padding-bottom: 2.5rem !important;
+}
+
+.p-style{
+    font-size: 1.25rem;
+    font-weight: 300;
+    color:white;
+}
+
+.p-style a {
+    color: rgb(26,188,156); 
+}
+
+.p-style a:hover {
+    color: rgb(16, 128, 106); 
+}
+
+.p-small-style{
+    font-size: 0.875em;
+    color: white;
+    background-color: rgb(26,37,47);
+}
